@@ -1,0 +1,21 @@
+{
+  "payload": {
+    "categories": ["car"]
+  },
+  "response": [
+    {
+      "id": "image1",
+      "cocoUrl": "http://img1.jpg",
+      "height": "200",
+      "width": "300",
+      "fileName": "img1"
+    },
+    {
+      "id": "image2",
+      "cocoUrl": "http://img2.jpg",
+      "height": "200",
+      "width": "300",
+      "fileName": "img2"
+    }
+  ]
+}
